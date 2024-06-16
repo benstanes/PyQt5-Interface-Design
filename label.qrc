@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="labels">
+    <file>../LOGIN/Images_UI/-.png</file>
+    <file>../LOGIN/Images_UI/+.png</file>
+    <file>../LOGIN/Images_UI/1.png</file>
+    <file>../LOGIN/Images_UI/a-removebg-preview.png</file>
+    <file>../LOGIN/Images_UI/cal.png</file>
+    <file>../LOGIN/Images_UI/enable1.png</file>
+    <file>../LOGIN/Images_UI/enable2.png</file>
+    <file>../LOGIN/Images_UI/info.png</file>
+    <file>../LOGIN/Images_UI/lock-fotor-bg-remover-2023090612198.png</file>
+    <file>../LOGIN/Images_UI/logo.png</file>
+    <file>../LOGIN/Images_UI/menu.png</file>
+    <file>../LOGIN/Images_UI/message.jpeg</file>
+    <file>../LOGIN/Images_UI/next.png</file>
+    <file>../LOGIN/Images_UI/password.png</file>
+    <file>../LOGIN/Images_UI/playpause.png</file>
+    <file>../LOGIN/Images_UI/power.png</file>
+    <file>../LOGIN/Images_UI/previous.png</file>
+    <file>../LOGIN/Images_UI/red_flag.png</file>
+    <file>../LOGIN/Images_UI/search.png</file>
+    <file>../LOGIN/Images_UI/speed_img.png</file>
+    <file>../LOGIN/Images_UI/stop.png</file>
+    <file>../LOGIN/Images_UI/U.png</file>
+    <file>../LOGIN/Images_UI/unlock-fotor-bg-remover-20230906123212.png</file>
+    <file>../LOGIN/Images_UI/user.png</file>
+    <file>../LOGIN/Images_UI/warning-removebg-preview.png</file>
+  </qresource>
+</RCC>

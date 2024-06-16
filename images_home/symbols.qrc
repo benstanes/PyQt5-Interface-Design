@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>2022-07-07.jpg</file>
+    <file>background.jpg</file>
+  </qresource>
+</RCC>

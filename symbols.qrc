@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>-.png</file>
+    <file>+.png</file>
+    <file>1.png</file>
+    <file>a-removebg-preview.png</file>
+    <file>cal.png</file>
+    <file>enable1.png</file>
+    <file>enable2.png</file>
+    <file>info.png</file>
+    <file>lock-fotor-bg-remover-2023090612198.png</file>
+    <file>logo.png</file>
+    <file>menu.png</file>
+    <file>message.jpeg</file>
+    <file>next.png</file>
+    <file>password.png</file>
+    <file>playpause.png</file>
+    <file>power.png</file>
+    <file>previous.png</file>
+    <file>red_flag.png</file>
+    <file>search.png</file>
+    <file>speed_img.png</file>
+    <file>stop.png</file>
+    <file>U.png</file>
+    <file>unlock-fotor-bg-remover-20230906123212.png</file>
+    <file>user.png</file>
+    <file>warning-removebg-preview.png</file>
+  </qresource>
+</RCC>

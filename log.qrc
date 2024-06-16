@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>2022-07-07.jpg</file>
+    <file>../../../../Downloads/2022-07-07.jpg</file>
+    <file>../../../../Downloads/enstein.jpg</file>
+  </qresource>
+</RCC>
